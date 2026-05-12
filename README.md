@@ -25,3 +25,15 @@ Top interest category: Fitness, top sales channel: Mobile App
 
 Skills Demonstrated
 Data Warehousing ETL Pipeline OLAP Cube Design MDX SQL C# Data Modeling Galaxy Schema Business Intelligence KPI Development Dashboard Design SSIS SSAS Power BI SQL Server
+
+
+
+
+link to project : https://drive.google.com/drive/folders/1TVsxYXBzg06zmkvZaWHwHwRJziaucykL?usp=sharing
+
+
+
+
+
+
+..
