@@ -1,6 +1,6 @@
 # End-to-End-Business-Intelligence-Pipeline-Meta-Ads-Campaign-Transaction-Analytics
 
-Project Description
+ # Project Description
 This project demonstrates a complete Business Intelligence pipeline built to analyze Meta (Facebook & Instagram) ad campaign performance and sales transactions. Starting from raw CSV data, the pipeline covers database design, ETL processing, multidimensional OLAP modeling, and interactive dashboard visualization — simulating a real-world enterprise data engineering workflow.
 The dataset includes 379,954 ad events and 2,031 transactions across a 3-month campaign period (May–August 2025), covering user demographics, ad formats, platforms, products, and payment behavior.
 
